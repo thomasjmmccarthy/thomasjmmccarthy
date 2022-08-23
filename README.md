@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Thomas McCarthy
 I'm a filmmaker, theatre-lover, and Computer Science student. Currently studying at the University of York.
-I've only recently started by GitHub, and look forward to sharing some of my projects here.
+I've only recently started my GitHub, and look forward to sharing some of my projects here.
 
 Find my games at **https://chillaxegames.itch.io**
 
