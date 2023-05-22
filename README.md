@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Thomas McCarthy
 I'm a filmmaker, theatre-lover, and Computer Science student. Currently studying at the University of York.
-I've only recently started my GitHub, and look forward to sharing some of my projects here.
 
 Find my games at **https://chillaxegames.itch.io**
 
@@ -14,6 +13,7 @@ Find my games at **https://chillaxegames.itch.io**
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40"/></a>
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://dart.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
+<a href="https://www.haskell.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/haskell/haskell-icon.svg" alt="haskell" width="40" height="40"/></a>
 
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visual studio code" width="40" height="40"/></a>
 <a href="https://www.eclipse.org/downloads/packages/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" alt="eclipse IDE" width="40" height="40"/></a>
